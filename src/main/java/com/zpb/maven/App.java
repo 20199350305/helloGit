@@ -9,5 +9,6 @@ public class App {
         System.out.println("更新1");
         System.out.println("创建分支");
         System.out.println("在主干上添加内容");
+        System.out.println("在分支上添加内容");
     }
 }
